@@ -6,9 +6,7 @@
 
 body {
 
-  background:  rgb(29, 180, 147);
-  
-  /*linear-gradient(45deg, rgb(110, 10, 10), rgb(192, 115, 27), rgb(165, 43, 6), black);*/
+  background: linear-gradient(45deg, rgb(110, 10, 10), rgb(192, 115, 27), rgb(165, 43, 6), black);
   
   
 }
