@@ -12,6 +12,14 @@ body {
 }
 
 
+.titulo{
+  text-align: center;
+  font-size: 100px;
+  color: rgb(255, 251, 28);
+  padding: 8px;
+}
+
+
 
 
 .info {
